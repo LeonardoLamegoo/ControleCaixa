@@ -8,8 +8,8 @@ Aplicação para controle de caixa
   * SQL Server
   
 # Passos para a execução da API
-  1º Passo: Restaure o backup da base de dados que está na pasta "DataBase-ControleCaixa" dentro da solução, para o SQL Server.
-  2º Passo: Dentro do projeto, abra o arquivo appsettings.json, em "ConnectionStrings", altere o "Data Source" para o seu servidor do SQL Server.
+  1º Passo: Restaure o backup da base de dados que está na pasta "DataBase-ControleCaixa" dentro da solução, para o SQL Server.<br />
+  2º Passo: Dentro do projeto, abra o arquivo appsettings.json, em "ConnectionStrings", altere o "Data Source" para o seu servidor do SQL Server.<br />
   
 # EndPoints
   1º Passo: Para utilizar a API, depure o projeto "ControleCaixaAPI", após isso se abrirá a interface do Swagger.
